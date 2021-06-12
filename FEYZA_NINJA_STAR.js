@@ -1,4 +1,7 @@
-"use strict";                                                                                                                    // author: feyzaseyrek
+// author: feyzaseyrek
+// date: 18.04.2021
+
+"use strict";                                                                                                             
 
 const starVertices = [														// Vertices of the star itself.
 	vec2(0, 0),
