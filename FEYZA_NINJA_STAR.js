@@ -1,4 +1,4 @@
-"use strict";                                      // author: feyzaseyrek
+"use strict";                                                                                                                    // author: feyzaseyrek
 
 const starVertices = [														// Vertices of the star itself.
 	vec2(0, 0),
